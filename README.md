@@ -4,7 +4,7 @@
 The Self-adaptive Control System for Hydroponics automates and optimizes the growth conditions for plants in hydroponic setups. Integrating IoT technology with traditional hydroponics, it monitors and adjusts environmental parameters like pH, light intensity, temperature, and nutrient concentration, ensuring optimal plant growth with minimal human intervention.
 
 ## Features
-- **Continuous Monitoring:** Tracks pH, temperature, humidity, and nutrient levels in real time.
+- **Continuous Monitoring:** Tracks pH, temperature, humidity, and nutrient levels in real-time.
 - **Automated Adjustments:** Automatically regulates light intensity, nutrient concentration, and pH balance.
 - **IoT Integration:** Enables remote monitoring and control via a cloud-based dashboard.
 - **Scalability:** Suitable for small-scale home gardens and large-scale commercial setups.
@@ -34,7 +34,7 @@ Here are some images showcasing the system:
 
 1. ![Hydroponics System Overview](image-url-overview) - An overview of the hydroponics system setup.
 2. ![Sensor and Actuator Details](image-url-sensors) - Detailed view of the sensors and actuators.
-3. ![IoT Dashboard](Named Figures/Named/dashboard_systmem) - The Adafruit IO dashboard for remote monitoring and control.
+3. ![IoT Dashboard](Named Figures/Named/dashboard_system) - The Adafruit IO dashboard for remote monitoring and control.
 
 
 ## Acknowledgments
