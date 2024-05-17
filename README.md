@@ -34,7 +34,7 @@ Here are some images showcasing the system:
 
 1. ![Hydroponics System Overview](image-url-overview) - An overview of the hydroponics system setup.
 2. ![Sensor and Actuator Details](image-url-sensors) - Detailed view of the sensors and actuators.
-3. ![IoT Dashboard](Named Figures/Named/dashboard_sysmem) - The Adafruit IO dashboard for remote monitoring and control.
+3. ![IoT Dashboard](Named Figures/Named/dashboard_systmem) - The Adafruit IO dashboard for remote monitoring and control.
 
 
 ## Acknowledgments
