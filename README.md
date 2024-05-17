@@ -32,9 +32,9 @@ The Self-adaptive Control System for Hydroponics automates and optimizes the gro
 ## Images
 Here are some images showcasing the system:
 
-1. ![Hydroponics System Overview](image-url-overview) - An overview of the hydroponics system setup.
-2. ![Sensor and Actuator Details](Named Figures/Named/dashboard_system.png) - Detailed view of the sensors and actuators.
-3. ![IoT Dashboard](Named Figures/Named/dashboard_system.png) - The Adafruit IO dashboard for remote monitoring and control.
+1. ![Hydroponics Hardware Setup](Named_Figures/Hydro5.png) - An overview of the hydroponics hardware setup.
+2. ![PH and EC Calibration](Named_Figures/PH_EC_graph.png) - PH and EC Values 
+3. ![IoT Dashboard](Named_Figures/Named/dashboard_system.png) - The Adafruit IO dashboard for remote monitoring and control.
 
 
 ## Acknowledgments
